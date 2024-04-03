@@ -17,11 +17,6 @@
 
 - ⚡ Fun fact **I think Im very curious!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https:/www.linkedin.com/in/jorge-lira-dev](https://www.linkedin.com/in/jorge-lira-dev/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-lira-9a5954b4/" height="30" width="40" /></a>
-</p>
-
 ## 🛠 Habilidades
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
