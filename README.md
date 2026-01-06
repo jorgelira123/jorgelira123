@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Lira</h1>
-<h3 align="center">A passionate Python Developer from Brazil</h3>
+<h3 align="center">A Data Engineer from Brazil</h3>
 <img align='right' alt='coding' src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgelira123&label=Profile%20views&color=0e75b6&style=flat" alt="jorgelira123" /> </p>
 
